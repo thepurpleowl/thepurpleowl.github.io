@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "Academics"
-    url: /Academics/
+    url: /academics/
   
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
     
   - title: "Extra-curricular"
-    url: /Extra-curricular/
+    url: /extra-curricular/
   
   - title: "Experience"
-    url: /Experience/
+    url: /experience/
 
   - title: "Personal"
-    url: /Personal/
+    url: /personal/
 
   
 #  - title: "Publications"
