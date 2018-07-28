@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Surya Prakash Sahu"
+title                    : "Surya Prakash Sahu / thepurpleowl"
 title_separator          : "-"
-name                     : &name "Surya Prakash Sahu / thepurpleowl"
+name                     : &name "Surya Prakash Sahu "
 description              : &description "personal description"
 url                      : https://thepurpleowl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
