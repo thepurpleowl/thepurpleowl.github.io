@@ -1,3 +1,12 @@
+---
+title: 'Does Structure of Tweets Matter!? An Exploration'
+date: 2018-08-01
+permalink: /posts/2018/08/Does-Structure-of-Tweets-Matter!?-An-Exploration/
+tags:
+  - twitter
+  - Sarcasm detection
+---
+
 Acceptance of Twitter as a reputed online media by masses on a large scale has resulted in twitter as a choice of playground for 
 researchers in the field of computer science, psychologists and many others. Data from Twitter have been used to extract 
 information and tailor information on various tasks such as sentiment analysis, sarcasm detection, event prediction, etc. As for 
