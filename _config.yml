@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Surya Prakash Sahu / thepurpleowl"
+title                    : "Surya Prakash Sahu"
 title_separator          : "-"
 name                     : &name "Surya Prakash Sahu "
 description              : &description "personal description"
@@ -84,7 +84,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "India, Earth"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   github           : "thepurpleowl"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "_s_u.r.y_a_"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/spsahu-nlp-ml-android/
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/5094187/thepurpleowl
   steam            :
   tumblr           :
   twitter          : "surya8911"
