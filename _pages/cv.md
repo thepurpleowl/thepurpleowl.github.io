@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,36 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Bachelor of Technology (BTech), CSE, National Institute of Technology Rourkela, 2014 – 2018 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2017 – Jul 2017, Data Analytics Intern, EarlySalary
+
+* Jun 2016 – Jul 2016, Networking and Security Intern, Eikon Technologies
+
+* Jul 2015 – Sep 2015 , Android Application and Web Developer, Eastern Innovations
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+
+[comment]: # (Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3)
 
-Publications
-======
+[comment]: # (Publications======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>)
   
 Talks
 ======
