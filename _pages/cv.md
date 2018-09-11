@@ -27,20 +27,27 @@ Work experience
   * Supervisor: Professor Hub
   
 
-[comment]: # (Skills
+<!--
+Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3)
+* Skill 3
+-->
 
-[comment]: # (Publications======
+
+{% comment %} 
+Publications
+======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>)
-  
+  {% endfor %}</ul>  
+{% endcomment %}
+
+
 Talks
 ======
   <ul>{% for post in site.talks %}
