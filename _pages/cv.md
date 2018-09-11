@@ -27,7 +27,7 @@ Work experience
   * Supervisor: Professor Hub
   
 
-<!--
+<!---
 Skills
 ======
 * Skill 1
@@ -36,10 +36,11 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
--->
+--->
 
 
 {% comment %} 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
