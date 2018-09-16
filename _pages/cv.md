@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Work experience"
+title: "Work Experience"
 permalink: /experience/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Work experience
+<!-- Work Experience
 ======  -->
 * May 2017 – Jul 2017, Data Analytics Intern, EarlySalary
   * Github University
