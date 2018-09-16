@@ -7,16 +7,16 @@ redirect_from:
   - /works
 ---
 
-## Academic Projects
+<!-- ## Academic Projects -->
 
-| Project Name     | Type   |                                                              |
+| Project Name     | Type   | Description                                                             |
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
 
-## Co-Curricular Projects
+<!-- ## Co-Curricular Projects
 
 | Project Name     | Type   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
@@ -31,4 +31,4 @@ redirect_from:
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          | -->
