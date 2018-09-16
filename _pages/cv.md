@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: "Work experience"
 permalink: /experience/
 author_profile: true
 redirect_from:
@@ -9,23 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Bachelor of Technology (BTech), CSE, National Institute of Technology Rourkela, 2014 – 2018 
-
-Work experience
-======
+<!-- Work experience
+======  -->
 * May 2017 – Jul 2017, Data Analytics Intern, EarlySalary
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
 * Jun 2016 – Jul 2016, Networking and Security Intern, Eikon Technologies
 
 * Jul 2015 – Sep 2015 , Android Application and Web Developer, Eastern Innovations
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 
 <!---
 Skills
