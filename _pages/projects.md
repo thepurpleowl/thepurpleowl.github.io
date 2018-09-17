@@ -9,11 +9,18 @@ redirect_from:
 
 <!-- ## Academic Projects -->
 
-| Project Name     | Type   | Description                                                             |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| Project Name                 | Type   | Description                                                             |
+| ---------------------------- | ------ | ------------------------------------------------------------ |
+| Customer Segregation Model   |        |
+| May 2017 – July 2017         |        |                                                              |
+| Chabot                       |        |                                                              |
+| May 2017 – Present           |        |                                                              |
+| [Doe Doe](#)                 |        |                                                              |
+|                              |        |                                                              |
+|                              |        |                                                              |
+|                              |        |                                                              |
+|                              |        |                                                              |
+|                              |        |                                                              |
 
 
 <!-- ## Co-Curricular Projects
