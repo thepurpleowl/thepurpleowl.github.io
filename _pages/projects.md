@@ -19,8 +19,8 @@ redirect_from:
 | Object Identification using LSTM<br>Jan – Apr, 2017  |        |                                                              |
 | Sale prediction from Twitter feed<br>Sep – Nov 2016  |        |                                                              |
 | Data retrieving for MOOC recommender system          |        |                                                              |
-| Feastify, Jan – Mar, 2015                            |        |                                                              | | Real-time Location Data Acquisition                  |        |                                                              |
-
+| Feastify, Jan – Mar, 2015                            |        |                                                              |
+| Real-time Location Data Acquisition                  |        |                                                              |
 
 <!-- ## Co-Curricular Projects
 
