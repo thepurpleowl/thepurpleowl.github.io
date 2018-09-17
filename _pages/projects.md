@@ -9,18 +9,17 @@ redirect_from:
 
 <!-- ## Academic Projects -->
 
-| Project Name                 | Type   | Description                                                             |
-| ---------------------------- | ------ | ------------------------------------------------------------ |
-| Customer Segregation Model   |        |
-| May 2017 – July 2017         |        |                                                              |
-| Chabot                       |        |                                                              |
-| May 2017 – Present           |        |                                                              |
-| [Doe Doe](#)                 |        |                                                              |
-|                              |        |                                                              |
-|                              |        |                                                              |
-|                              |        |                                                              |
-|                              |        |                                                              |
-|                              |        |                                                              |
+| Project Name                                         | Type   | Description                                                  |
+| ---------------------------------------------------- | ------ | ------------------------------------------------------------ |
+| Customer Segregation Model <br>May - July, 2017      |        |                                                              |
+| Chabot <br>May - July, 2017                          |        |                                                              |
+| Twitter Sarcasm Detection                            |        |                                                              |
+| Attack Detection in Recommender System               |        |                                                              |
+| Monday Morning Android App <br>Oct 2016 – Apr, 2017  |        |                                                              |
+| Object Identification using LSTM<br>Jan – Apr, 2017  |        |                                                              |
+| Sale prediction from Twitter feed<br>Sep – Nov 2016  |        |                                                              |
+| Data retrieving for MOOC recommender system          |        |                                                              |
+| Feastify, Jan – Mar, 2015                            |        |                                                              | | Real-time Location Data Acquisition                  |        |                                                              |
 
 
 <!-- ## Co-Curricular Projects
