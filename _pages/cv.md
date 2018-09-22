@@ -37,7 +37,7 @@ Skills
 --->
 
 
-{% comment %} 
+<!--- {% comment %} 
 
 Publications
 ======
@@ -45,7 +45,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>  
   
-{% endcomment %}
+{% endcomment %} --->
 
 
 Talks and Teaching
