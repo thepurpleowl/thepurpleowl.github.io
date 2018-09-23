@@ -13,12 +13,12 @@ redirect_from:
 * May 2017 – Jul 2017, Data Analytics Intern, EarlySalary
   * Developed a Clustering Model to help underwriters to understand their customers better
   * Presented various proof of concept on available text data
-  * Improved performance of EarlySalary.com’s Risk Assessment framework
+  * Improved performance of [EarlySalary.com](http://earlysalary.com/)’s Risk Assessment framework
   * Developed chatbot for Automated customer query addressing using AWS Lex
   * Participated in team meetings and provided technical feedbacks
 
 * Jun 2016 – Jul 2016, Networking and Security Intern, Eikon Technologies
-  * Completed CEH V9
+  * Completed CEH v9
   * Worked as a lab assistant
   * Gained hands-on experience regarding Computer Network and Security
 
