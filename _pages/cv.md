@@ -50,31 +50,28 @@ Publications
 
 Talks and Teaching
 ======
-<!--  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>  ->
-<!--    <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>  -->
 
 <div>
   <div>
-  <img align="right" src="https://github.com/thepurpleowl/thepurpleowl.github.io/blob/master/images/Talk_1.jpg" height="200"  width="300">
-
-  With the intention of helping juniors, I made use of most of the opportunities given to me for sharing my experience with various technologies and topics. Even though all of the talks were related to the technical field, I tried to deliver the non-technical aspects which seemed to affect the result, according to my experience. During some of the talks, I shared my failures and advised them how not to repeat those mistakes.
+    <div>
+      <img align="right" src="https://github.com/thepurpleowl/thepurpleowl.github.io/blob/master/images/Talk_1.jpg" height="200"  width="300">
+    </div>
+    <div>
+      With the intention of helping juniors, I made use of most of the opportunities given to me for sharing my experience with various technologies and topics. Even though all of the talks were related to the technical field, I tried to deliver the non-technical aspects which seemed to affect the result, according to my experience. During some of the talks, I shared my failures and advised them how not to repeat those mistakes.
+    </div>
   </div>
-
+  
   <div>
-  <img align="left" src="https://github.com/thepurpleowl/thepurpleowl.github.io/blob/master/images/Talk_2.jpg" height="200" width="300">
-
-  Topics of the talks included Version Control, Git, Android App Development, Open Source, Programming Languages, Machine Learning, NLP, etc. and various tools used for those domains.
+    <div>
+      <img align="left" src="https://github.com/thepurpleowl/thepurpleowl.github.io/blob/master/images/Talk_2.jpg" height="200"   width="300">
+    </div>
+    <div>
+      Topics of the talks included Version Control, Git, Android App Development, Open Source, Programming Languages, Machine Learning, NLP, etc. and various tools used for those domains.
+    </div>
   </div>
 </div>
 
-<br>
-<br>
-<br>
-<br>
+
 
 Organizations and Service
 ======
@@ -99,3 +96,9 @@ Organizations and Service
   * Organized coding classes for freshers and sophomores
   * Helped in organizing Hackathons and other events hosted by SPAWN
   
+  <!--  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>  -->
+<!--    <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>  -->
