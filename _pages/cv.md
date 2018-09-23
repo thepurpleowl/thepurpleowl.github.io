@@ -24,18 +24,7 @@ redirect_from:
 
 * Jul 2015 – Sep 2015 , Android Application and Web Developer, Eastern Innovations
   * Developed Android Apps and Websites
-  
-<!---
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
---->
-
+ 
 
 <!--- {% comment %} 
 
@@ -50,8 +39,12 @@ Publications
 
 Talks and Teaching
 ======
+<img align="right" src="https://github.com/thepurpleowl/thepurpleowl.github.io/blob/master/images/talk_collage.jpg" height="240"  width="360">
+With the intention of helping juniors, I made use of most of the opportunities given to me for sharing my experience with various technologies and topics. Even though all of the talks were related to the technical field, I tried to deliver the non-technical aspects which seemed to affect the result, according to my experience. During some of the talks, I shared my failures and advised them how not to repeat those mistakes.  
 
-<div class="talks">
+Topics of the talks included Version Control, Git, Android App Development, Open Source, Programming Languages, Machine Learning, NLP, etc. and various tools used for those domains.
+
+<!--- <div class="talks">
   <div>
     <div style="float: left; width: 60%;">
     <img align="right" src="https://github.com/thepurpleowl/thepurpleowl.github.io/blob/master/images/Talk_1.jpg" height="180"  width="270">
@@ -70,7 +63,7 @@ Talks and Teaching
       <br><br><br><br><br>
     </div>
   </div>
-</div>
+</div> --->
 
 Organizations and Service
 ======
