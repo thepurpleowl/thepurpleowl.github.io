@@ -69,7 +69,7 @@ The talks included topics like
 
 Organizations and Service
 ======
-* CodeHub, Nov 2016 – Apr 2018 
+* [CodeHub](https://www.facebook.com/codehub/), Nov 2016 – Apr 2018 
   * Technical Team member 
     * Coordinating technical activities of CodeHub
     * Presented CodeHub in Technical Society, NITR
@@ -79,14 +79,14 @@ Organizations and Service
     * Organized events and workshops in Technical fests
     * Managed teams and updated mentors about current proceedings
     
-* E-Cell, NITR, Dec 2015 – Apr 2018 o
+* [E-Cell,NITRkl](http://ecell.nitrkl.ac.in/), NITR, Dec 2015 – Apr 2018 o
   * Technical Coordinator 
     * Monitored and coordinated technical activities of E-Cell
   * Coordinator in NES, 2016
   * Guided juniors of the club in organizing an event
   * Built connections with E-Cell of other institutes
   
-* SPAWN, Aug 2015 – Apr 2018 organization position Active Member
+* [SPAWN](https://www.facebook.com/spawn.nitr/), Aug 2015 – Apr 2018 organization position Active Member
   * Organized coding classes for freshers and sophomores
   * Helped in organizing Hackathons and other events hosted by SPAWN
   
