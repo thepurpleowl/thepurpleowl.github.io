@@ -37,9 +37,9 @@ Publications
 
 Talks and Teaching
 ======
-<img align="right" src="https://github.com/thepurpleowl/thepurpleowl.github.io/blob/master/images/talk_collage.jpg?raw=true" height="200"  width="300">
+<img align="right" src="https://github.com/thepurpleowl/thepurpleowl.github.io/blob/master/images/talk_collage.jpg?raw=true" height="240"  width="360">
 With the intention of helping juniors, I made use of most of the opportunities given to me for sharing my experience with various technologies and topics. Even though all of the talks were related to the technical field, I tried to deliver the non-technical aspects which seemed to affect the result, according to my experience. During some of the talks, I shared my failures and advised them how not to repeat those mistakes.  
-
+  
 The talks included topics like
 * Version Control, Git,  Open Source
 * Android App Development
@@ -90,9 +90,11 @@ Organizations and Service
   * Organized coding classes for freshers and sophomores
   * Helped in organizing Hackathons and other events hosted by SPAWN
   
-  <!---  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>  --->
-<!---    <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>  --->
+  <!--- {% comment %} 
+<ul>{% for post in site.talks %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>  
+<ul>{% for post in site.teaching %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+{% endcomment %} --->
