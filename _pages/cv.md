@@ -79,7 +79,7 @@ Organizations and Service
     * Organized events and workshops in Technical fests
     * Managed teams and updated mentors about current proceedings
     
-* [E-Cell,NITRkl](http://ecell.nitrkl.ac.in/), NITR, Dec 2015 – Apr 2018 o
+* [E-Cell,NITRkl](http://ecell.nitrkl.ac.in/), Dec 2015 – Apr 2018 o
   * Technical Coordinator 
     * Monitored and coordinated technical activities of E-Cell
   * Coordinator in NES, 2016
