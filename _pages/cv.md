@@ -51,27 +51,26 @@ Publications
 Talks and Teaching
 ======
 
-<div>
+<div class="talks">
   <div>
-    <div>
-      <img align="right" src="https://github.com/thepurpleowl/thepurpleowl.github.io/blob/master/images/Talk_1.jpg" height="200"  width="300">
+    <div style="float: left; width: 60%;">
+    <img align="right" src="https://github.com/thepurpleowl/thepurpleowl.github.io/blob/master/images/Talk_1.jpg" height="180"  width="270">
     </div>
-    <div>
-      With the intention of helping juniors, I made use of most of the opportunities given to me for sharing my experience with various technologies and topics. Even though all of the talks were related to the technical field, I tried to deliver the non-technical aspects which seemed to affect the result, according to my experience. During some of the talks, I shared my failures and advised them how not to repeat those mistakes.
+    <div style="float: left; width: 40%;">
+     With the intention of helping juniors, I made use of most of the opportunities given to me for sharing my experience with various technologies and topics. Even though all of the talks were related to the technical field, I tried to deliver the non-technical aspects which seemed to affect the result, according to my experience. During some of the talks, I shared my failures and advised them how not to repeat those mistakes.
+      <br><br><br>
     </div>
   </div>
-  
   <div>
-    <div>
-      <img align="left" src="https://github.com/thepurpleowl/thepurpleowl.github.io/blob/master/images/Talk_2.jpg" height="200"   width="300">
+    <div style="float: left; width: 40%;">
+    <img align="left" src="https://github.com/thepurpleowl/thepurpleowl.github.io/blob/master/images/Talk_2.jpg" height="180"  width="270">
     </div>
-    <div>
-      Topics of the talks included Version Control, Git, Android App Development, Open Source, Programming Languages, Machine Learning, NLP, etc. and various tools used for those domains.
+    <div style="float: left; width: 60%;">
+    Topics of the talks included Version Control, Git, Android App Development, Open Source, Programming Languages, Machine Learning, NLP, etc. and various tools used for those domains.
+      <br><br><br><br><br>
     </div>
   </div>
 </div>
-
-
 
 Organizations and Service
 ======
