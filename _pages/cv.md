@@ -10,15 +10,15 @@ redirect_from:
 {% include base_path %}
 <!-- Work Experience
 ======  -->
-* May 2017 – Jul 2017, Data Analytics Intern, EarlySalary
+* May 2017 – Jul 2017, Data Analytics Intern, [EarlySalary.com](http://earlysalary.com/)
   * Developed a Clustering Model to help underwriters to understand their customers better
   * Presented various proof of concept on available text data
-  * Improved performance of [EarlySalary.com](http://earlysalary.com/)’s Risk Assessment framework
+  * Improved performance of EarlySalary’s Risk Assessment framework
   * Developed chatbot for Automated customer query addressing using AWS Lex
 
-* Jun 2016 – Jul 2016, Networking and Security Intern, Eikon Technologies
+* Jun 2016 – Jul 2016, Networking and Security Intern, [Eikon Technologies](http://eikontech.net/)
   * Completed CEH v9
-  * Gained hands-on experience regarding Computer Network and Security
+  * Gained hands-on experience regarding Computer Networks and Security
 
 * Jul 2015 – Sep 2015 , Android Application and Web Developer, Eastern Innovations
   * Developed Android Apps and Websites
@@ -39,7 +39,7 @@ Talks and Teaching
 With the intention of helping juniors, I made use of most of the opportunities given to me for sharing my experience with various technologies and topics. Even though all of the talks were related to the technical field, I tried to deliver the non-technical aspects which seemed to affect the result, according to my experience. During some of the talks, I shared my failures and advised them how not to repeat those mistakes.  
   
 The talks included topics like
-* Version Control, Git,  Open Source
+* [Version Control, Git](https://goo.gl/uq9qdC),  Open Source
 * Android App Development
 * Machine Learning, NLP 
 * Programming Languages etc. and various tools used in those domains.
