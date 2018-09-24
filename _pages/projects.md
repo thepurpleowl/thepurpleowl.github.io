@@ -11,7 +11,7 @@ redirect_from:
 I have worked on 
   * Machine Learning : [Colab notebooks](https://drive.google.com/drive/folders/110abLOc8OoFuAlvlQSQFkWodLikp8AgL?usp=sharing)
   * Recommendation Systems
-  * Text Analyics
+  * Text Analytics and NLP
   * [Sarcasm Detection](https://github.com/thepurpleowl/Tweet_archive) - mostly on tweets.
   * [Android and Windows App development](https://github.com/thepurpleowl/AndroidDev_archive)
   * [Web Development](https://github.com/thepurpleowl/WebDev_archive/)
