@@ -11,7 +11,6 @@ redirect_from:
 <!-- Work Experience
 ======  -->
 * May 2017 – Jul 2017, Data Analytics Intern, [EarlySalary.com](http://earlysalary.com/)
-  * Developed a Clustering Model to help underwriters to understand their customers better
   * Presented various proof of concept on available text data
   * Improved performance of EarlySalary’s Risk Assessment framework
   * Developed chatbot for Automated customer query addressing using AWS Lex
