@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Work Experience"
 permalink: /experience/
 author_profile: true
@@ -15,11 +15,9 @@ redirect_from:
   * Presented various proof of concept on available text data
   * Improved performance of [EarlySalary.com](http://earlysalary.com/)’s Risk Assessment framework
   * Developed chatbot for Automated customer query addressing using AWS Lex
-  * Participated in team meetings and provided technical feedbacks
 
 * Jun 2016 – Jul 2016, Networking and Security Intern, Eikon Technologies
   * Completed CEH v9
-  * Worked as a lab assistant
   * Gained hands-on experience regarding Computer Network and Security
 
 * Jul 2015 – Sep 2015 , Android Application and Web Developer, Eastern Innovations
@@ -79,7 +77,7 @@ Organizations and Service
     * Organized events and workshops in Technical fests
     * Managed teams and updated mentors about current proceedings
     
-* [E-Cell,NITRkl](http://ecell.nitrkl.ac.in/), Dec 2015 – Apr 2018 o
+* [E-Cell,NITRkl](http://ecell.nitrkl.ac.in/), Dec 2015 – Apr 2018 
   * Technical Coordinator 
     * Monitored and coordinated technical activities of E-Cell
   * Coordinator in NES, 2016
