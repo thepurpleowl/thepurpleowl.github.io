@@ -14,3 +14,5 @@ I love to declare myself as a voracious movie watcher and gentle foodie and love
 In addition, I enjoy occasional running, cycling sessions along with hiking and travelling. In fact I have a bucket list of places, would love to travel.
 
 I would love to be known by my handle "**thepurpleowl**"; of course only in tech community; someday :) !! 
+
+Link to Neural Network Course : [//]: # (<src="https://github.com/rctatman/rctatman.github.io/">)
