@@ -10,6 +10,9 @@ redirect_from:
 {% include base_path %}
 <!-- Work Experience
 ======  -->
+* Oct 2018 – Sept 2020, Project Associate, [Cognizant](https://www.cognizant.com/)
+  * Contributed to [Automation Center](https://www.cognizant.com/automation-center) - a Cognizant product
+
 * May 2017 – Jul 2017, Data Analytics Intern, [EarlySalary.com](http://earlysalary.com/)
   * Presented various proof of concept on available text data
   * Improved performance of EarlySalary’s Risk Assessment framework
@@ -64,7 +67,7 @@ The talks included topics like
   </div>
 </div> --->
 
-Organizations and Service
+Clubs and Organizations
 ======
 * [CodeHub](https://www.facebook.com/codehub/), Nov 2016 – Apr 2018 
   * Technical Team member 

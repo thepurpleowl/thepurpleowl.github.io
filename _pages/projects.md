@@ -9,6 +9,7 @@ redirect_from:
 
 <!-- ## Academic Projects -->
 I have worked on 
+  * Software Engineering using Machine Learning
   * Machine Learning : [Colab notebooks](https://drive.google.com/drive/folders/110abLOc8OoFuAlvlQSQFkWodLikp8AgL?usp=sharing)
   * Recommendation Systems
   * Text Analytics and NLP

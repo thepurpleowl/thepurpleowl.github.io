@@ -8,11 +8,7 @@ redirect_from:
 
 [//]: # (<img align="right" src="https://github.com/rctatman/rctatman.github.io/blob/master/images/circus_pic.jpeg?raw=true">)
 
-Besides my time in front of PC, I like to read biographies, blogs and sometimes watch different tv series. I take part in outdoor activities, sports (TT, swimming) and gaming. 
-I love to declare myself as a voracious movie watcher and gentle foodie and love to socialize over food.
+Besides my time in front of PC, I like have brief reads, blogs. I love to socialize over food(so if you're in Bangalore, hit me up :) ).  
 
-In addition, I enjoy occasional running, cycling sessions along with hiking and travelling. In fact I have a bucket list of places, would love to travel.
+I like to take part in outdoor activities and sports (TT, swimming). I occasionally go on cycling trip sessions. I love travelling and in fact have a travel bucket list.
 
-I would love to be known by my handle "**thepurpleowl**"; of course only in tech community; someday :) !! 
-
-Link to Neural Network Course : [//]: # (<src="https://github.com/rctatman/rctatman.github.io/">)
